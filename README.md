@@ -37,7 +37,7 @@ The main window renders a flower with petals that gradually extend outward from 
 
 ## Demo
 
-![Screenshot](screenshot.png) <!-- Add your own screenshot if desired -->
+![Watch the video here](assets/idea64_OOl1p7UbSW.mp4)
 
 ## Customization
 
