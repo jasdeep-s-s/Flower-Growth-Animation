@@ -2,6 +2,8 @@
 
 A simple Java Swing application demonstrating animated flower petal growth.
 
+https://github.com/user-attachments/assets/7fa37a0d-ab07-4969-a647-30ec265f9a77
+
 ## Features
 
 - **Smooth Petal Animation**  
@@ -34,10 +36,6 @@ The main window renders a flower with petals that gradually extend outward from 
 
 - **src/FlowerGrowth.java:** Main JPanel and animation logic.
 - **src/Main.java:** Entry point (if needed).
-
-## Demo
-
-![Watch the video here](assets/idea64_OOl1p7UbSW.mp4)
 
 ## Customization
 
